@@ -9,13 +9,15 @@ The Studio team and faculty will spend the next two months working with more tha
 
 # What can I expect at Orientation?
 
-# MONDAY, AUGUST 26TH:
+MONDAY, AUGUST 26TH:
+
 You’ll get a brief introduction to the Studio team and learn all about the Studio code and culture. 
 That evening you will receive an email with a list of all of the challenges to consider. You should spend some time reading over all of the challenges and think about which ones are interesting to you and why. The companies who submitted the challenges will not be listed on this initial list of challenges. We want you to consider the challenge itself, and the impact you could have by working on that challenge.
 
 We know you’ll have questions. Don’t worry, we’ll go over everything on Tuesday during the Studio activity and we hope to answer many of your open questions at that time. There will also be plenty of time for Q&A! 
 
 TUESDAY, AUGUST 27TH: 
+
 You will participate in a fun and immersive Studio exercise.
 
 That evening, you will receive a survey asking you to rank your top ten challenges in order of preference. Participation in this survey is required. The Product Challenge Survey will be due on Thursday, 8/29 by 11:59pm.
@@ -23,17 +25,21 @@ That evening, you will receive a survey asking you to rank your top ten challeng
 At this point, the survey will list the companies that posed each challenge. While this may change how you choose to rank the challenges, we hope that the content of the challenge itself will be the primary factor in your decision-making. 
 
 THURSDAY, AUGUST 29TH:
+
 This is the first day of Product Studio: Introduction / Tackling Design Problems. The Product Challenge Survey is due by 11:59pm. Students who do not turn in surveys will be randomly matched to a team. There will be no opportunity to change your selections once you have submitted your survey.
 
 FRIDAY AUGUST 30th - MONDAY SEPTEMBER 2ND:
+
 The Studio team will run Dreamteam, an algorithm built by Cornell Tech alumni, that will create the Product Challenge teams that you’ll work on for the fall semester and match you with a challenge. The algorithm will take into account your background, skills, and program, optimizing for your preferences and multi-disciplinary teams. Teams will consist of 4-5 students.
 
 TUESDAY, SEPTEMBER 3RD:
+
 You will meet your challenge teams and find out which challenge you matched with!
 
 Companies will be informed whether or not their challenge matched to a student team.
 
 FRIDAY, SEPTEMBER 6TH:
+
 We will host a Kickoff Breakfast for Company Advisors. You will have the opportunity to send a representative from your team to meet your Company Advisor if they are able to attend. 
 
 
@@ -76,5 +82,5 @@ Your team may pivot from an original idea to best address the challenge, or even
 
 Q: How is Intellectual Property (IP) handled?
 ...
-A: The primary purpose of the project is the education of the student. Organizations and students should define projects that are learning experiences and expose students to real-world challenges and opportunities within the organization. The ownership of any intellectual property (IP) that may be created during the project is public domain. The project is for educational purposes and any resulting intellectual property is openly shared for public benefit. IP, along with other legal matters, including confidentiality, pertaining to the project, are agreed upon at the outset of the project using the Cornell Standard Project (CSP) agreement. Companies that are matched with a team agree to use the CSP without modifications or revisions.
+A: The primary purpose of the project is the education of the student. Organizations and students should define projects that are learning experiences and expose students to real-world challenges and opportunities within the organization. The ownership of any intellectual property (IP) that may be created during the project is public domain. The project is for educational purposes and any resulting intellectual property is openly shared for public benefit. IP, along with other legal matters, including confidentiality, pertaining to the project, are agreed upon at the outset of the project using the Cornell Standard Project (CSP) agreement [https://tech.cornell.edu/wp-content/uploads/legacy/CSP-EC_Agreement_v1.8a_04-13-2017.pdf]. Companies that are matched with a team agree to use the CSP without modifications or revisions.
 
