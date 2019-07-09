@@ -9,7 +9,7 @@ The Studio team and faculty will spend the next two months working with more tha
 
 # What can I expect at Orientation?
 
-MONDAY, AUGUST 26TH:
+# MONDAY, AUGUST 26TH:
 You’ll get a brief introduction to the Studio team and learn all about the Studio code and culture. 
 That evening you will receive an email with a list of all of the challenges to consider. You should spend some time reading over all of the challenges and think about which ones are interesting to you and why. The companies who submitted the challenges will not be listed on this initial list of challenges. We want you to consider the challenge itself, and the impact you could have by working on that challenge.
 
@@ -38,7 +38,8 @@ We will host a Kickoff Breakfast for Company Advisors. You will have the opportu
 
 
 
-FAQS
+# FAQS
+
 Q: What types of companies can submit challenges?
 ...
 A: We encourage all leading startups, companies, and organizations from across the globe to submit a challenge. ...
